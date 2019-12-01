@@ -1,0 +1,12 @@
+{
+  "name": "bikefit_demo",
+  "version": "1.0.0",
+  "author": "Paul Scarrone",
+  "description": "Toy to prove accurate distance calculations in VR",
+  "dependencies": {
+    "aframe": "^0.9.2"
+  },
+  "devDependencies": {
+    "aframe-watcher": "^1.4.0"
+  }
+}
